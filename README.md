@@ -9,5 +9,5 @@
 <p align="left">
   💻 Exploring Web & Mobile Development<br>
   🛠️ My projects are live at <a href="https://8sync-portfolio.vercel.app/" target="_blank">8sync Portfolio</a><br>
-  🤝🏻 Poke me in my portfolio, if you're interested working together
+  🤝🏻 Poke me, if you're interested working together
 </p>
